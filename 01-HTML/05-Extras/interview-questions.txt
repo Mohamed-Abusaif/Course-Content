@@ -1,0 +1,5 @@
+1. What is the difference between <strong> and <b>?
+2. What are semantic tags? Name three.
+3. How does the <form> element work?
+4. What are void (self-closing) HTML elements?
+5. Why is it important to include alt text in <img> tags?
