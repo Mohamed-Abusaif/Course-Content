@@ -1,0 +1,66 @@
+===================================================================================================
+✅ 1. What is the difference between <div> and <span>? When would you use each?
+Answer:
+<div> is a block-level element used to group larger chunks of content or layout sections.
+<span> is an inline element used to style or isolate parts of text inside block-level elements.
+
+Use <div> for layout containers.
+
+Use <span> for inline text styling or targeting.
+===================================================================================================
+✅ 2. What are semantic HTML elements? Give examples and explain their importance.
+Answer:
+Semantic elements describe their content meaningfully to both the browser and developer.
+Examples: <header>, <footer>, <main>, <article>, <nav>
+
+They improve accessibility, SEO, and code readability.
+===================================================================================================
+✅ 3. What is the difference between id and class attributes in HTML?
+Answer:
+
+id: Unique identifier (used once per page), e.g., id="header"
+
+class: Reusable label to group elements with similar styles or behaviors, e.g., class="button"
+
+Use id for unique elements and class for styling or grouping.
+===================================================================================================
+
+✅ 4. What is the purpose of the <!DOCTYPE html> declaration? What happens if it’s missing?
+Answer:
+
+Declares the document type and HTML version (HTML5 in this case).
+
+It tells the browser to render the page in standards-compliant mode.
+
+If omitted, browsers may switch to quirks mode, causing inconsistent rendering.
+===================================================================================================
+
+✅ 5. Explain the difference between block-level and inline elements.
+Answer:
+
+Block-level: Takes up the full width, starts on a new line. E.g., <div>, <p>, <section>
+
+Inline: Takes up only as much width as necessary, flows within a line. E.g., <span>, <a>, <strong>
+===================================================================================================
+
+✅ 6. How do you make a form accessible for screen readers and assistive technologies?
+Answer:
+
+Always use <label for="inputId"> paired with the corresponding <input id="inputId">
+
+Use semantic HTML and ARIA roles if needed.
+
+Ensure proper tab order and descriptive placeholders/alt text.
+===================================================================================================
+
+✅ 7. What is the difference between <section>, <article>, and <aside>?
+Answer:
+
+<section>: A thematic grouping of content, usually with a heading.
+
+<article>: Self-contained content, reusable and distributable (like a blog post).
+
+<aside>: Tangential or complementary content (sidebars, callouts).
+===================================================================================================
+
+

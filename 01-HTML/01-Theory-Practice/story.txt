@@ -1,0 +1,34 @@
+✅ User Stories
+🔹 EPIC 1: Project Setup + Basic Structure
+As a visitor, I want to load the webpage correctly in any browser so that I can access the content.
+
+As a developer, I want to include a <head> with meta tags so that the webpage is SEO-friendly and well-structured.
+
+🔹 EPIC 2: Headers, Paragraphs, and Formatting
+As a visitor, I want to see the student’s name as a large heading so that I know whose portfolio I’m viewing.
+
+As a visitor, I want to read a short paragraph about the student so that I can understand their background.
+
+As a visitor, I want key words in the intro text to be bold or italic so that I can focus on the important parts.
+
+🔹 EPIC 3: Navigation and Links
+As a visitor, I want to navigate to different sections of the same page (like "About", "Projects", "Contact") so that I can explore easily.
+
+As a visitor, I want to click a link that takes me to the student’s GitHub or LinkedIn so that I can view their public work.
+
+🔹 EPIC 4: Lists and Skills
+As a visitor, I want to see a list of the student’s technical skills so that I know what tools they use.
+
+As a visitor, I want to see a step-by-step list of the student’s learning path so that I understand their growth.
+
+🔹 EPIC 5: Images and Media
+As a visitor, I want to see a profile picture of the student so that I can recognize them or connect visually.
+
+🔹 EPIC 6: Tables for Projects or Education
+As a visitor, I want to view a table that shows the student’s projects or education so that I can get structured information quickly.
+
+🔹 EPIC 7: Contact Form
+As a visitor, I want to send a message to the student using a form so that I can reach out directly.
+
+As a visitor, I want to enter my name, email, and message in the form so that communication is possible.
+
